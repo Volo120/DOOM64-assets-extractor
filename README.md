@@ -6,7 +6,7 @@ Simple tool that extracts PNGs from any data file that packs PNGs without encryp
 
 1. Ensure you have Java installed on your system.
 2. Open your command line.
-3. Navigate to the directory containing `PNG-Extractor.jar` file.
+3. Navigate to the directory containing `PNGExtractor.jar` file.
 4. Execute the command:
 
 ```cmd
