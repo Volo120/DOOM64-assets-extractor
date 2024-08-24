@@ -1,5 +1,5 @@
 # PNG-Extractor
-Simple tool that extracts PNGs from any data file that packs PNGs without encrypting it.
+Simple tool that extracts PNGs from any packed data file that contains undecoded PNG files
 
 # Usage
 *for convenience, consider relocating your resource files to the directory where this tool is located or vice versa*
