@@ -1,16 +1,8 @@
-# PNG-Extractor
-Simple tool that extracts PNGs from any packed data file that contains undecoded PNG files
+# Doom 64 PNG Assets Extractor
 
-# Usage
-*for convenience, consider relocating your resource files to the directory where this tool is located or vice versa*
+A simple Java-based tool for extracting PNG assets (sprites, textures, etc.) from **Doom 64** resource files.
 
-1. Ensure you have Java installed on your system.
-2. Open your command line.
-3. Navigate to the directory containing `PNGExtractor.jar` file.
-4. Execute the command:
+> This "tool" focuses on parsing the **DOOM64.wad** (specifically the steam version)
 
-```cmd
-java -jar PNGExtractor.jar data_file
-```
-
-Replace `data_file` with the path to your input file
+## Usage
+> java -jar `D64-PNG.jar` `DOOM64.wad`
